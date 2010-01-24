@@ -95,9 +95,7 @@ if __name__=="__main__":
 			#clear()
 			a = False
 		else:
-			#print "Nie działa"
 			time.sleep(3)
 			status("wan adsl status\n")
 			time.sleep(3)
-			#print a
 
